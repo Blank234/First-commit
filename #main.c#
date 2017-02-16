@@ -5,6 +5,5 @@ int main()
     
   cout<<"Hello world";
   cout<<"Proba commit";
-  cout<<"Commit work";
     return 0;
 }
